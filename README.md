@@ -16,15 +16,15 @@ Notebook support in `PyCharm` includes:
 ## Jumpstart Your Jupyter Notebook Experience in PyCharm
 
 To start working with Jupyter notebooks in PyCharm:
--Set Up Your Environment:
--Create a new Python project.
--Specify a virtual environment.
--Install the Jupyter package.
--Open or Create a Notebook:
--Open an existing `.ipynb` file or create a new one.
--Edit and Add Cells:
--Add and edit source cells in the notebook as needed.
--Execute Code Cells:
+- Set Up Your Environment:
+- Create a new Python project.
+- Specify a virtual environment.
+- Install the Jupyter package.
+- Open or Create a Notebook:
+- Open an existing `.ipynb` file or create a new one.
+- Edit and Add Cells:
+- Add and edit source cells in the notebook as needed.
+- Execute Code Cells:
 
 Execute any of the code cells to start the `Jupyter server` and run your code.
 
@@ -35,23 +35,29 @@ Mind the following user interface features when working with Jupyter notebooks i
 
 Jupyter Notebook Interface Overview:
 
--Jupyter Notebook Toolbar: This toolbar provides quick access to frequently used actions. While additional notebook-specific actions are available in the` Cell menu`, this toolbar offers convenient shortcuts for common tasks.
--Code Cell: A code cell within the notebook is where you write and execute executable code. These cells are where you input your Python code for `analysis, calculations, or data manipulation.`
--Cell Output: After executing a code cell, the results are displayed in the` cell output area`. This output can take various forms, including text, tables, or plots, depending on the code's purpose and the libraries used.
--Cell Toolbar: The cell toolbar, typically hidden by default, contains essential commands for managing code cells. To enable this toolbar, navigate to Project Settings `(Ctrl+Alt+S)`, go to Languages & Frameworks | Jupyter, and check the "Show cell toolbar" option. Once enabled, it provides shortcuts and options for working with code cells efficiently.
+- Jupyter Notebook Toolbar: This toolbar provides quick access to frequently used actions. While additional notebook-specific actions are available in the` Cell menu`, this toolbar offers convenient shortcuts for common tasks.
+- Code Cell: A code cell within the notebook is where you write and execute executable code. These cells are where you input your Python code for `analysis, calculations, or data manipulation.`
+- Cell Output: After executing a code cell, the results are displayed in the` cell output area`. This output can take various forms, including text, tables, or plots, depending on the code's purpose and the libraries used.
+- Cell Toolbar: The cell toolbar, typically hidden by default, contains essential commands for managing code cells. To enable this toolbar, navigate to Project Settings `(Ctrl+Alt+S)`, go to Languages & Frameworks | Jupyter, and check the "Show cell toolbar" option. Once enabled, it provides shortcuts and options for working with code cells efficiently.
 
 ## Cell toolbar﻿
+
 Each code cell has its configurable toolbar so that you can easily access the most popular commands and actions. By default, `cell toolbars` are disabled. To enable them, open project Settings `(Ctrl+Alt+S)`, go to Languages & Frameworks | Jupyter, and select the Show cell toolbar checkbox.
 
 | Symbol             |Toolbar Element    | Description                                                |
 | ------------------ |-------------------|---------------------------------------------------------- |
-| <img![image](https://github.com/dikshant182004/dfd/assets/122460149/a2176411-d0db-4686-ad57-1963bf23f3e7)
-/>                  |Run Cell           | Executes the code cell. You can also press Ctrl+Enter to run the code cell.                |
-| <img/>                   |Run Cell and Select Below | Executes this cell and selects the cell below. Press Shift+Enter to perform the same action. |
-| Move Cell Up       | Moves the current cell up.                                |
-| Move Cell Down     | Moves the current cell down.                              |
-| Delete Cell        | Deletes the current cell.                                  |
-| More Options       | Open the list of additional actions:                      |
+| ![image](https://github.com/dikshant182004/dfd/assets/122460149/a2176411-d0db-4686-ad57-1963bf23f3e7)
+                  |Run Cell           | Executes the code cell. You can also press Ctrl+Enter to run the code cell.                |
+| ![image](https://github.com/dikshant182004/dfd/assets/122460149/1382d157-bade-4d5c-801c-4f8a8911a81d)
+                   |Run Cell and Select Below | Executes this cell and selects the cell below. Press Shift+Enter to perform the same action. |
+| ![image](https://github.com/dikshant182004/dfd/assets/122460149/a321fea9-f437-432c-8046-0066c0085542)
+                 |Move Cell Up       | Moves the current cell up.                                |
+|    ![image](https://github.com/dikshant182004/dfd/assets/122460149/7b254910-6817-423c-b15c-504943f5dc9a)
+                | Move Cell Down     | Moves the current cell down.                              |
+|  ![image](https://github.com/dikshant182004/dfd/assets/122460149/7f3a20d6-b884-4cb0-94e0-f222c3c80320)
+                  | Delete Cell        | Deletes the current cell.                                  |
+|![image](https://github.com/dikshant182004/dfd/assets/122460149/33d4f96e-d250-4bcf-8cc6-02548fd79342)
+|More Options       | Open the list of additional actions:                      |
 |                    | - Run All Above: Executes all cells that preceded the selected cell.                     |
 |                    | - Debug Cell: Runs the Debugger for the current cell. You should set a breakpoint first. Click the gutter next to the line where you want to stop. |
 |                    | - Merge Cell Above: Merges the current cell with the cell above.                           |
