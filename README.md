@@ -98,6 +98,7 @@ It also provides controls to stop the running server (`Stop the server`(![image]
 )) and launch the stopped server (`Run the server`(![image](https://github.com/dikshant182004/dfd/assets/122460149/0d15e38c-eb8e-4e4c-bf14-ee83ed0dd1b7)
 )).
 
+## CONCLUSION :-
 The `Jupyter Variables` tool window the detailed report about variable values of the executed cell.
 
 ![image](https://github.com/dikshant182004/dfd/assets/122460149/14130547-3a10-4bf2-abd3-bf95f13e548a)
