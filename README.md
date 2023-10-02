@@ -68,46 +68,28 @@ The Jupyter notebook toolbar provides quick access to all basic operations with 
 
 ![image](https://github.com/dikshant182004/dfd/assets/122460149/e94cf60b-31f1-4e92-b0e6-66279917ce9f)
 
-| Toolbar Element              | Description                                                                                  |
-| ---------------------------- | -------------------------------------------------------------------------------------------- |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/77cee660-0e4f-4d8d-a4d5-2291030d5e12)
-                     | Adds a code cell below the selected cell.                                                      |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/264a9a8a-c850-4bb9-8fc1-69d495112bc3)
-                          | Moves the selected item or items from the current location to the clipboard. Moves the entire cell if it's selected. |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/4085834f-52c2-4d89-82af-69ba6b2b0f83)
-                         | Copies the selected item or items to the clipboard. Copies the entire cell if it's selected.           |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/386bd062-0a77-4fbb-8d0f-b1847cc750f3)
-                        | Inserts the contents of the clipboard into the selected location. If you've selected an entire cell, the contents are pasted to a new cell below the selected one. |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/34c2a2d4-eb3b-4ae6-acb0-8a5703b5ee14)
-                 | Moves the current cell up.                                                                   |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/660fdab2-6370-4432-8aab-aca25d00bf5f)
-               | Moves the current cell down.                                                                 |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/14e40858-b97b-4dcc-8593-5c08a98887cd)
-                     | Executes this cell and selects a cell below. If there is no cell below, PyCharm will create it.    |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/06243011-bb3a-4f80-aaae-b74a1953a729)
-                   | Starts debugging for this cell.                                                               |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/85657cb3-3bfc-49b9-afba-202862293ab4)
-             | Click this icon if you want to interrupt any cell execution.                                    |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/39b073e3-2b3b-4505-962e-58c8377c3114)
-           | Click this icon to restart the currently running kernel.                                       |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/36bf9b8f-c3df-415c-ba6d-6e547a770298)
-                | Executes all cells in the notebook.                                                           |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/5b648748-b52d-4a92-8949-67f8a287f07a)
-                    | You can select a cell type from this list and change the type for the selected cell.           |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/68201e5e-2f10-4f72-ac84-eb97876ec682)
-              | Deletes the current cell.                                                                    |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/0bb9aa47-627f-445b-a296-9ce7134acf5e)
-      | The Jupyter Server widget that shows the currently used Jupyter server. Click the widget and select Configure Jupyter Server to set up another local or remote Jupyter server. |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/0c3fdaed-fd62-41ce-b22a-152bc7081abd)
-      | List of the available Jupyter kernels.                                                        |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/2cddf707-99d9-48a1-88df-8e76d443cfd4)
-           | Select this checkbox to allow executing JavaScript in your Jupyter notebook.                    |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/30c2b5d7-5a52-4f60-86cd-cc76c8e9324a)
-            | This action selects the cell above.                                                           |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/582bacbc-805a-4ce2-9f5f-af535fe85a11)
-            | This action selects the cell below.                                                           |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/a1c2a235-a64a-4c65-b07a-3c18a5c7784c)
-r     | You can preview the notebook in a browser.                                                    |
+| Toolbar Element                | Description                                                                                                                                                             |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![New Cell](https://github.com/dikshant182004/dfd/assets/122460149/77cee660-0e4f-4d8d-a4d5-2291030d5e12)               | Adds a code cell below the selected cell.                                                                                                                                |
+| ![Cut](https://github.com/dikshant182004/dfd/assets/122460149/264a9a8a-c850-4bb9-8fc1-69d495112bc3)                   | Moves the selected item or items from the current location to the clipboard. Moves the entire cell if it's selected.                                                     |
+| ![Copy](https://github.com/dikshant182004/dfd/assets/122460149/4085834f-52c2-4d89-82af-69ba6b2b0f83)                  | Copies the selected item or items to the clipboard. Copies the entire cell if it's selected.                                                                          |
+| ![Paste](https://github.com/dikshant182004/dfd/assets/122460149/386bd062-0a77-4fbb-8d0f-b1847cc750f3)                 | Inserts the contents of the clipboard into the selected location. If you've selected an entire cell, the contents are pasted to a new cell below the selected one.    |
+| ![Move Cell Up](https://github.com/dikshant182004/dfd/assets/122460149/34c2a2d4-eb3b-4ae6-acb0-8a5703b5ee14)        | Moves the current cell up.                                                                                                                                              |
+| ![Move Cell Down](https://github.com/dikshant182004/dfd/assets/122460149/660fdab2-6370-4432-8aab-aca25d00bf5f)      | Moves the current cell down.                                                                                                                                            |
+| ![Run Cell](https://github.com/dikshant182004/dfd/assets/122460149/14e40858-b97b-4dcc-8593-5c08a98887cd)             | Executes this cell and selects a cell below. If there is no cell below, PyCharm will create it.                                                                      |
+| ![Debug Cell](https://github.com/dikshant182004/dfd/assets/122460149/06243011-bb3a-4f80-aaae-b74a1953a729)          | Starts debugging for this cell.                                                                                                                                         |
+| ![Interrupt Kernel](https://github.com/dikshant182004/dfd/assets/122460149/85657cb3-3bfc-49b9-afba-202862293ab4)  | Click this icon if you want to interrupt any cell execution.                                                                                                            |
+| ![Restart Kernel](https://github.com/dikshant182004/dfd/assets/122460149/39b073e3-2b3b-4505-962e-58c8377c3114)    | Click this icon to restart the currently running kernel.                                                                                                               |
+| ![Run All Cells](https://github.com/dikshant182004/dfd/assets/122460149/36bf9b8f-c3df-415c-ba6d-6e547a770298)        | Executes all cells in the notebook.                                                                                                                                     |
+| ![Cell Type](https://github.com/dikshant182004/dfd/assets/122460149/5b648748-b52d-4a92-8949-67f8a287f07a)         | You can select a cell type from this list and change the type for the selected cell.                                                                                 |
+| ![Remove Cell](https://github.com/dikshant182004/dfd/assets/122460149/68201e5e-2f10-4f72-ac84-eb97876ec682)      | Deletes the current cell.                                                                                                                                               |
+| ![List of Jupyter Servers](https://github.com/dikshant182004/dfd/assets/122460149/0bb9aa47-627f-445b-a296-9ce7134acf5e) | The Jupyter Server widget that shows the currently used Jupyter server. Click the widget and select Configure Jupyter Server to set up another local or remote Jupyter server. |
+| ![List of Jupyter Kernels](https://github.com/dikshant182004/dfd/assets/122460149/0c3fdaed-fd62-41ce-b22a-152bc7081abd) | List of the available Jupyter kernels.                                                                                                                                  |
+| ![Trusted JS Widgets](https://github.com/dikshant182004/dfd/assets/122460149/2cddf707-99d9-48a1-88df-8e76d443cfd4)   | Select this checkbox to allow executing JavaScript in your Jupyter notebook.                                                                                            |
+| ![Select Cell Above](https://github.com/dikshant182004/dfd/assets/122460149/30c2b5d7-5a52-4f60-86cd-cc76c8e9324a)    | This action selects the cell above.                                                                                                                                     |
+| ![Select Cell Below](https://github.com/dikshant182004/dfd/assets/122460149/582bacbc-805a-4ce2-9f5f-af535fe85a11)    | This action selects the cell below.                                                                                                                                     |
+| ![Open Notebook in Browser](https://github.com/dikshant182004/dfd/assets/122460149/a1c2a235-a64a-4c65-b07a-3c18a5c7784c) | You can preview the notebook in a browser.                                                                                                                              |
+
 
 
 
