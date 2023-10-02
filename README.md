@@ -89,8 +89,20 @@ The Jupyter notebook toolbar provides quick access to all basic operations with 
 | ![Select Cell Above](https://github.com/dikshant182004/dfd/assets/122460149/30c2b5d7-5a52-4f60-86cd-cc76c8e9324a)    | This action selects the cell above.                                                                                                                                     |
 | ![Select Cell Below](https://github.com/dikshant182004/dfd/assets/122460149/582bacbc-805a-4ce2-9f5f-af535fe85a11)    | This action selects the cell below.                                                                                                                                     |
 | ![Open Notebook in Browser](https://github.com/dikshant182004/dfd/assets/122460149/a1c2a235-a64a-4c65-b07a-3c18a5c7784c) | You can preview the notebook in a browser.                                                                                                                              |
+## Tool windows
+The `Server Log` tab within the Jupyter tool window becomes accessible once you launch a Jupyter server. Within this tab, you can monitor the real-time status of the Jupyter server and conveniently access the link to open your notebook in a web browser.
 
+![image](https://github.com/dikshant182004/dfd/assets/122460149/36f655ed-6151-404f-aaa3-282decf5615f)
 
+It also provides controls to stop the running server (`Stop the server`(![image](https://github.com/dikshant182004/dfd/assets/122460149/25198203-5dd2-491d-b4a8-352cb7364ced)
+)) and launch the stopped server (`Run the server`(![image](https://github.com/dikshant182004/dfd/assets/122460149/0d15e38c-eb8e-4e4c-bf14-ee83ed0dd1b7)
+)).
+
+The `Jupyter Variables` tool window the detailed report about variable values of the executed cell.
+
+![image](https://github.com/dikshant182004/dfd/assets/122460149/14130547-3a10-4bf2-abd3-bf95f13e548a)
+
+You can use the Settings icon to [manage the variables loading policy](https://www.jetbrains.com/help/pycharm/variables-loading-policy.html)https://www.jetbrains.com/help/pycharm/variables-loading-policy.html.
 
 
 
