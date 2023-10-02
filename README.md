@@ -54,9 +54,9 @@ Each code cell has its configurable toolbar so that you can easily access the mo
 | ![image](https://github.com/dikshant182004/dfd/assets/122460149/a321fea9-f437-432c-8046-0066c0085542) | Move Cell Up                | Moves the current cell up.                                      |
 | ![image](https://github.com/dikshant182004/dfd/assets/122460149/7b254910-6817-423c-b15c-504943f5dc9a) | Move Cell Down              | Moves the current cell down.                                    |
 | ![image](https://github.com/dikshant182004/dfd/assets/122460149/7f3a20d6-b884-4cb0-94e0-f222c3c80320) | Delete Cell                 | Deletes the current cell.                                        |
-| ![image](https://github.com/dikshant182004/dfd/assets/122460149/33d4f96e-d250-4bcf-8cc6-02548fd79342) | More Options                | Open the list of additional actions:                              |
+| ![image](https://github.com/dikshant182004/dfd/assets/122460149/33d4f96e-d250-4bcf-8cc6-02548fd79342) | More Options                | Open the list of `additional actions`:                              |
 |        | Run All Above                | Executes all cells that preceded the selected cell.               |
-|        | Debug Cell                   | Runs the Debugger for the current cell. You should set a breakpoint first. Click the gutter next to the line where you want to stop. |
+|        | Debug Cell                   | Runs the `Debugger` for the current cell. You should set a breakpoint first. Click the gutter next to the line where you want to stop. |
 |        | Merge Cell Above              | Merges the current cell with the cell above.                       |
 |        | Merge Cell Below              | Merges the current cell with the cell below.                       |
 |        | Split Cell                   | Splits the current cell by the selected code line.                |
@@ -90,7 +90,7 @@ The Jupyter notebook toolbar provides quick access to all basic operations with 
 | ![Select Cell Below](https://github.com/dikshant182004/dfd/assets/122460149/582bacbc-805a-4ce2-9f5f-af535fe85a11)    | This action selects the cell below.                                                                                                                                     |
 | ![Open Notebook in Browser](https://github.com/dikshant182004/dfd/assets/122460149/a1c2a235-a64a-4c65-b07a-3c18a5c7784c) | You can preview the notebook in a browser.                                                                                                                              |
 ## Tool windows
-The `Server Log` tab within the Jupyter tool window becomes accessible once you launch a Jupyter server. Within this tab, you can monitor the real-time status of the Jupyter server and conveniently access the link to open your notebook in a web browser.
+The `Server Log` tab within the Jupyter tool window becomes accessible once you launch a Jupyter server. Within this tab, you can monitor the `real-time status` of the Jupyter server and conveniently access the link to open your notebook in a web browser.
 
 ![image](https://github.com/dikshant182004/dfd/assets/122460149/36f655ed-6151-404f-aaa3-282decf5615f)
 
